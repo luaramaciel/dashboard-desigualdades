@@ -20,7 +20,7 @@ Dashboard interativo que analisa as desigualdades raciais no mercado de trabalho
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Python 3.13** - Linguagem principal
+- **Python 3.11** - Linguagem principal
 - **Streamlit** - Framework para criação do dashboard
 - **Pandas** - Manipulação e análise de dados
 - **Plotly** - Visualizações interativas
